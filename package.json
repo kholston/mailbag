@@ -9,6 +9,11 @@
   "author": "Ken Holston",
   "license": "ISC",
   "devDependencies": {
+    "@types/express": "^4.17.11",
+    "@types/mailparser": "^3.0.1",
+    "@types/nedb": "^1.8.11",
+    "@types/node": "^14.14.28",
+    "@types/nodemailer": "^6.4.0",
     "typescript": "^4.1.5"
   },
   "dependencies": {
