@@ -8,5 +8,7 @@
   },
   "author": "Ken Holston",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
