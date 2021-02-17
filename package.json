@@ -1,0 +1,12 @@
+{
+  "name": "mailbag",
+  "version": "1.0.0",
+  "description": "a node email application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Holston",
+  "license": "ISC",
+  "devDependencies": {}
+}
